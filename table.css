@@ -1,0 +1,19 @@
+table,th,td {
+
+    border: 1px solid black;
+
+}
+
+
+thead{
+
+    background-color: chocolate;
+
+}
+
+
+td{
+ 
+   padding: 10px;
+
+}
